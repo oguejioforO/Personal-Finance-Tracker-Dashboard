@@ -68,4 +68,5 @@ Manually entered personal finance data including income streams, categorized exp
 This project was a fun and insightful journey into financial data visualization using Excel.
 Thanks to Freedom Oboh for the inspiration and to Evergreen Digital Tech Solution for the educational support!
 
-![Dashboard](./Visual/linkkkkkkk/.PNG)
+![Dashboard](./Visual/linkkkkkkk.PNG)
+
